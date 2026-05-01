@@ -8,7 +8,6 @@
 ## 👥 Authors
 
 | Name 
-|------|-----------|
 | Yousef Shanti
 
 **Instructors:** Dr. Yazan Abu Farha & Dr. Samah Alaydi  
